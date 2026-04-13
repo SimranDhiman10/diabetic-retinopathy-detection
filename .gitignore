@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.pkl
+venv/
+*.keras
+.opencode
+AGENTS.md
+GEMINI.md
+*.docx
+*.pdf
+__pycache__/
